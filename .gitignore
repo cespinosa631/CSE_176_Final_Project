@@ -1,0 +1,3 @@
+*.npy
+GBT_data/*
+models/*
